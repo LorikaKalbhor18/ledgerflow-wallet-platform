@@ -1,0 +1,1 @@
+ALTER TABLE wallets ALTER COLUMN currency TYPE VARCHAR(3);
